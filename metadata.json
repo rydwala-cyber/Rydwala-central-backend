@@ -1,0 +1,6 @@
+{
+  "name": "Rydwala Central Backend & Multi-App Platform",
+  "description": "Production Central Backend, PostgreSQL Database Schema, Real-time WebSocket Sync, and Unified Customer, Driver & Admin Architecture for Rydwala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
